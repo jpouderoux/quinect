@@ -1,0 +1,1 @@
+generateqrc.py > ..\resources.qrc
